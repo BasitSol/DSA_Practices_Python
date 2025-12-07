@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
