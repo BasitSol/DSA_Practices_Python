@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0771-jewels-and-stones) |
