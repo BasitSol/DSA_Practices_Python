@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0268-missing-number) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1512-number-of-good-pairs) |
 ## String Matching
 |  |
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
