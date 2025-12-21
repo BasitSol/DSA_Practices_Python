@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0977-squares-of-a-sorted-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1470-shuffle-the-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1512-number-of-good-pairs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0771-jewels-and-stones) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0771-jewels-and-stones) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1512-number-of-good-pairs) |
 ## String Matching
