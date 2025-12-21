@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BasitSol/DSA_Practices_Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/BasitSol/DSA_Practices_Python/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/BasitSol/DSA_Practices_Python/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BasitSol/DSA_Practices_Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/BasitSol/DSA_Practices_Python/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/BasitSol/DSA_Practices_Python/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
