@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0283-move-zeroes) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BasitSol/DSA_Practices_Python/tree/master/0268-missing-number) |
